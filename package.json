@@ -1,0 +1,16 @@
+{
+  "name": "H5-PLUG-IN",
+  "version": "1.0.0",
+  "description": "插件集成了二维码生成，图片压缩，方向调整，截屏等功能",
+  "main": "h5Plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["h5","h5Plugin"],
+  "author": "周亮",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:17612271145/h5-plug-in.git"
+  }
+}
